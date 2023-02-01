@@ -8,7 +8,7 @@ public class TwoRangesSum {
         else if (lastInRow < 0){
             System.out.println("last number in row is negative");
         }
-        else if ()
+
 
     }
 }
